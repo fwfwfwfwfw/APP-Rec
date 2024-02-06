@@ -1,0 +1,103 @@
+absl-py==0.15.0
+argon2-cffi==21.1.0
+astor==0.8.1
+async-generator==1.10
+attrs==21.2.0
+backcall==0.2.0
+bleach==4.1.0
+cached-property==1.5.2
+certifi==2021.5.30
+cffi==1.15.0
+click==8.0.3
+colorama==0.4.4
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+Cython==0.29.23
+dataclasses==0.8
+decorator==5.1.0
+defusedxml==0.7.1
+entrypoints==0.3
+gast==0.5.2
+gensim==4.1.2
+grpcio==1.41.1
+h5py==3.1.0
+importlib-metadata==4.8.1
+ipykernel==5.5.6
+ipython==7.16.1
+ipython-genutils==0.2.0
+ipywidgets==7.6.5
+jedi==0.18.0
+Jinja2==3.0.2
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+jsonschema==4.0.0
+jupyter==1.0.0
+jupyter-client==7.0.6
+jupyter-console==6.4.0
+jupyter-contrib-core==0.3.3
+jupyter-core==4.9.1
+jupyter-nbextensions-configurator==0.4.1
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.2
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+kiwisolver @ file:///C:/ci/kiwisolver_1612282446297/work
+Markdown==3.3.4
+MarkupSafe==2.0.1
+matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+mistune==0.8.4
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+mock==4.0.3
+nbclient==0.5.4
+nbconvert==6.0.7
+nbformat==5.1.3
+nest-asyncio==1.5.1
+nltk==3.6.7
+notebook==6.4.5
+numpy==1.19.5
+olefile==0.46
+packaging==21.2
+pandas @ file:///C:/ci/pandas_1608056614942/work
+pandocfilters==1.5.0
+parso==0.8.2
+pickleshare==0.7.5
+Pillow @ file:///C:/ci/pillow_1625663293114/work
+prometheus-client==0.11.0
+prompt-toolkit==3.0.21
+protobuf==3.19.0
+pycparser==2.20
+Pygments==2.10.0
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+pyrsistent==0.18.0
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+pywin32==302
+pywinpty==1.1.5
+PyYAML==6.0
+pyzmq==22.3.0
+qtconsole==5.1.1
+QtPy==1.11.2
+rake-nltk==1.0.6
+regex==2021.11.10
+scikit-learn @ file:///C:/ci/scikit-learn_1622739439730/work
+scipy @ file:///C:/ci/scipy_1597675683670/work
+Send2Trash==1.8.0
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+smart-open==5.2.1
+tensorboard==1.13.1
+tensorflow-estimator==1.13.0
+tensorflow-gpu==1.13.1
+termcolor==1.1.0
+terminado==0.12.1
+testpath==0.5.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tornado @ file:///C:/ci/tornado_1606942379977/work
+tqdm==4.62.3
+traitlets==4.3.3
+typing-extensions==3.10.0.2
+wcwidth==0.2.5
+webencodings==0.5.1
+Werkzeug==2.0.2
+widgetsnbextension==3.5.2
+wincertstore==0.2
+zipp==3.6.0
