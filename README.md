@@ -1,4 +1,4 @@
-# app-Rec
+# APP-Rec
 ---
 The codes are associated with the following paper:
 
