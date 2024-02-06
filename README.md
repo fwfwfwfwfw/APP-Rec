@@ -1,8 +1,8 @@
 # app-Rec
 ---
-# The codes are associated with the following paper:
+The codes are associated with the following paper:
 
-Title: APP-Rec: An Approach for Privacy-aware Mobile App Package Recommendation
+> Title: APP-Rec: An Approach for Privacy-aware Mobile App Package Recommendation
 ---
 
 # Dataset
