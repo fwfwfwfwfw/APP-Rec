@@ -6,11 +6,11 @@ The codes are associated with the following paper:
 ---
 
 # Dataset
-Download from https://www.kaggle.com/usernam3/shopify-APP-store
+> Download from https://www.kaggle.com/usernam3/shopify-APP-store
 
 ---
 
 # Environment
 
-Details as requirement.txt
+> Details as requirement.txt
 
