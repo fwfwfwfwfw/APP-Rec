@@ -13,4 +13,5 @@ The codes are associated with the following paper:
 # Environment
 
 > Details as requirement.txt
-
+- Tensorflow-gpu
+- ...
