@@ -24,12 +24,36 @@ Most modules are put in the `code` directory. The main modules to run the code (
 
 | Directory | Contents |
 | --------- | ------- |
+| `code/data_process`       | Process the csv data. |
 | `code/train.py` | Main file for training\validation\test. |
 | `code/LoadData.py`     | .tfrecords file loading. |
 | `code/Pack`       | Model structure. |
 
 
-- Data organization
+
+
+- Requirements
+```shell script
+pip install -r requirements.txt
+```
+
+- Data format
+```
+shapy_parallel_data_2.csv:
+one review per line
+author | helpful_count | app_id | price | category_id | rating | neighbor_list
+```
+
+- Data preprocess
+```shell script
+data preprocess:
+code/data_process.py
+
+
+python data_process.py
+```
+
+- Dataset organization
 
 The datasets should be aligned as follows:
 ```
@@ -46,28 +70,12 @@ datadir
 ...
 ```
 
-- Requirements
-```shell script
-pip install -r requirements.txt
-```
-
 - Usage
 
 Custom experiments can be performed by running `train.py` with customized arguments. For example:
 ```
 cd code
 python train.py
-```
-
-- data format
-```shell script
-data preprocess:
-code/data_process.py
-```
-```
-shapy_parallel_data_2.csv:
-one review per line
-author helpful_count app_id price category_id rating neighbor_list
 ```
 
 - Main Arguments
