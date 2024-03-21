@@ -93,7 +93,7 @@ def train_process(theta,d):
         pack_max_nei_f = 20 #'pack_neighbors_f': [pack_max_nei_f, 2+f_max_len], 包-邻居-朋友
         n_users = 34388#554237   #用户数据条数#554399
         n_items = 2147 #344230#344087    Article 数量#344363
-        n_bizs =  9  #166465       #media 数量#166311
+        n_bizs =  100  #166465       #media 数量#166311
         u_max_i = 400# 71
         u_max_f = 300 #220
 
