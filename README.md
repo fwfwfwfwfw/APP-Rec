@@ -70,3 +70,10 @@ The descriptions of general arguments are as follows:
 | gpu_id    | Gpu id.|
 | buffer_size   | Buffer size.|
 ...
+
+
+- Citation
+If you find this repository useful, please cite our work:
+
+- Contact
+For any issues please feel free to submit an issue. We are also open to any contributions.
