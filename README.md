@@ -46,12 +46,28 @@ datadir
 ...
 ```
 
+- Requirements
+```shell script
+pip install -r requirements.txt
+```
+
 - Usage
 
 Custom experiments can be performed by running `train.py` with customized arguments. For example:
 ```
 cd code
 python train.py
+```
+
+- data format
+```shell script
+data preprocess:
+code/data_process.py
+```
+```
+shapy_parallel_data_2.csv:
+one review per line
+author helpful_count app_id price category_id rating neighbor_list
 ```
 
 - Main Arguments
