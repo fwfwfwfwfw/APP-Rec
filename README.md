@@ -43,7 +43,7 @@ shapy_parallel_data_2.csv:
 one review per line
 author | helpful_count | app_id | price | category_id | rating | neighbor_list
 ```
-![Uploading image.png…](1711039698009.jpg)
+![Uploading image.png…](1711068028397.png)
 
 - Data preprocess
 ```shell script
